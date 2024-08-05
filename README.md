@@ -1,4 +1,4 @@
-<h1>THM Snyk Code (Application Security)</h1>
+<h1>Embedding Security in Development (Snyk Code for Application Security)</h1>
 
 
 
